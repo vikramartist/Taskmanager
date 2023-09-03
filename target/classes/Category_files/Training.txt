@@ -1,0 +1,4 @@
+push-ups:i have to complete 3 sets of 10push-ups:06/12/2022:8:health,train-body
+cycling:i have to cycle for atleast 2kms daily:10/12/2022:9:health,fitness
+weight lifting:i have to build my muscle:11/12/2022:9:muscle
+plank:i have to plank daily for 2 minutes:10/12/2022:5:plank,core-strength
